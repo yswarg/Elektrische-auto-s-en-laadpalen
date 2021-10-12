@@ -4,3 +4,4 @@ pandas==1.2.4
 plotly==5.3.1
 folium==0.12.1
 geopandas
+fuzzywuzzy==0.18.0

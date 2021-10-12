@@ -6,3 +6,4 @@ folium==0.12.1
 geopandas
 fuzzywuzzy==0.18.0
 pip==21.0.1
+streamlit==1.0.0

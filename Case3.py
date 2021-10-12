@@ -571,7 +571,6 @@ df1['Merk'].value_counts()
 # In[59]:
 
 
-get_ipython().system('pip install fuzzywuzzy')
 from fuzzywuzzy import fuzz
 
 

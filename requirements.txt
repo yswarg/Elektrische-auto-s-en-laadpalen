@@ -11,4 +11,4 @@ requests==2.25.1
 seaborn==0.11.1
 ipython==7.22.0
 scipy==1.6.2
-fiona==1.8
+fiona==1.8.20
